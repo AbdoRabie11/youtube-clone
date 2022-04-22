@@ -1,0 +1,13 @@
+
+.main__search{
+    margin-top: 18px;
+    padding: 12px;
+
+}
+.logo__img{
+    position: absolute;
+    left: 2px;
+    top: 2px;
+    width:150;
+   height: 100px;
+}
