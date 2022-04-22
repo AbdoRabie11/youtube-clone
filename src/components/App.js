@@ -5,6 +5,7 @@ class App extends Component {
     return (
       <div className='ui container'> 
           <SearchBar />
+          <h2>abdo rabie saying helow</h2>
       </div>
     )
   }
