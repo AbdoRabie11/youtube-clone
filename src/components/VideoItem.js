@@ -1,9 +1,9 @@
 import React from "react";
-
+import './VideoItem.css'
 function VideoItem({ video }) {
   return (
     <div className="ui middle aligned animated list">
-      <div className="item">
+      <div className="video-item item">
         <img
           className="ui image"
           src={video.snippet.thumbnails.medium.url}
